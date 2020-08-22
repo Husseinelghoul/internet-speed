@@ -1,12 +1,11 @@
-# internet-speed
+# Internet Speed test
 
 This is a program that uses speedtest-cli python api to calculate internet speed, logs the result in a file and presents visual representation
 
 ## Requirements
-- git
-- python 3.0 or higher
-- python package installer **pip** 
-    - *please refer to https://pypi.org/project/pip/ for more information*
+- [git]
+- [python] 3.0 or higher
+- python package installer **[pip]** 
 - required packages in `requierments.txt` (please refer to How-To)
 
 ## How-To
@@ -30,3 +29,7 @@ The **log.txt** file contains the following for each round:
 ### Sample Output
 ###### Internet speed/ Round Graph
 ![Sample Graph](https://github.com/Husseinelghoul/internet-speed/blob/master/plot-sample.png)
+
+[python]: https://www.python.org/
+[pip]: https://pypi.org/project/pip/
+[git]: https://git-scm.com/downloads
