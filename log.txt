@@ -1,0 +1,19 @@
+[STATUS] Starting program....
+[STATUS] Round Number 1
+[INFO] Date and Time: 22/08/2020 15:56:28
+[INFO] Internet Speed: 5.963186999218805 MBps.
+[INFO] Getting internet speed Time: 11.46349573135376 seconds.
+[STATUS] Round Number 2
+[INFO] Date and Time: 22/08/2020 15:56:40
+[INFO] Internet Speed: 5.829687033566143 MBps.
+[INFO] Getting internet speed Time: 10.0288827419281 seconds.
+[STATUS] Round Number 3
+[INFO] Date and Time: 22/08/2020 15:56:50
+[INFO] Internet Speed: 5.993334708446345 MBps.
+[INFO] Getting internet speed Time: 10.045008182525635 seconds.
+[STATUS] Drawing Internet speed graph...
+[STATUS] Saving plot...
+[INFO] Average time to calculate internet speed: 10.512462218602499
+[INFO] Average  internet speed: 5.928736247077097
+[STATUS] Program done executing
+[STATUS] Exiting program
