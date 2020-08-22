@@ -21,10 +21,10 @@ This is a program that uses speedtest-cli python api to calculate internet speed
 The resuls will appear on the **command prompt** and in **log.txt** file <br />
 When the program is done the visual representation will appear on the screen and two files will be generated **plot.png** and **plot.pdf** to save the plot <br />
 The **log.txt** file contains the following for each round:
-- internet speed in and Time
+- internet speed in MBps
 - Date and Time the "get internet speed" request was made 
-- Thee time it's taking to get your internet speed
--The round number
+- The time it's taking to get your internet speed
+- The round number
 
 ### Sample Output
 ###### Internet speed/ Round Graph
